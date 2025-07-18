@@ -2,8 +2,6 @@
 
 Automatically summarize meeting transcripts, extract client pain points, objections, and action items — ready for CRM logging.
 
-![screenshot](https://via.placeholder.com/900x200?text=AI+CRM+Summarizer+Demo)
-
 ---
 
 ## ✨ Features
