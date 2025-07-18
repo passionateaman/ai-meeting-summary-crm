@@ -65,7 +65,7 @@ OPENROUTER_API_KEY=org-xxxxxxxxxx  # from https://openrouter.ai/keys
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-meeting-summary-crm.git
+git clone https://github.com/passionateaman/ai-meeting-summary-crm.git
 cd ai-meeting-summary-crm
 ```
 
